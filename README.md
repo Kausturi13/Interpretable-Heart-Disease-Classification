@@ -119,7 +119,7 @@ The main implementation notebook is available at:
 
 The research paper is available in the root directory:
 
-`Interpretable_Heart_Disease_Classification.pdf`
+`Interpretable_Heart_Disease_Classification_Using_SMOTETomek_and_SHAP.pdf`
 
 The experiments use fixed random seeds where applicable to support reproducibility.
 
